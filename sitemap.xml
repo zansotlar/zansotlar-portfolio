@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://zansotlar.vercel.app/en</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zansotlar.vercel.app/en"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://zansotlar.vercel.app/sl"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zansotlar.vercel.app/en"/>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://zansotlar.vercel.app/sl</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zansotlar.vercel.app/en"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://zansotlar.vercel.app/sl"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zansotlar.vercel.app/en"/>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://zansotlar.vercel.app/en/work/ai-credit-advisory-agent</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zansotlar.vercel.app/en/work/ai-credit-advisory-agent"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://zansotlar.vercel.app/sl/work/ai-credit-advisory-agent"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zansotlar.vercel.app/en/work/ai-credit-advisory-agent"/>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://zansotlar.vercel.app/sl/work/ai-credit-advisory-agent</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zansotlar.vercel.app/en/work/ai-credit-advisory-agent"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://zansotlar.vercel.app/sl/work/ai-credit-advisory-agent"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zansotlar.vercel.app/en/work/ai-credit-advisory-agent"/>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://zansotlar.vercel.app/en/work/ai-vehicle-financing-agent</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zansotlar.vercel.app/en/work/ai-vehicle-financing-agent"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://zansotlar.vercel.app/sl/work/ai-vehicle-financing-agent"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zansotlar.vercel.app/en/work/ai-vehicle-financing-agent"/>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://zansotlar.vercel.app/sl/work/ai-vehicle-financing-agent</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zansotlar.vercel.app/en/work/ai-vehicle-financing-agent"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://zansotlar.vercel.app/sl/work/ai-vehicle-financing-agent"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zansotlar.vercel.app/en/work/ai-vehicle-financing-agent"/>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://zansotlar.vercel.app/en/work/ai-banner-generation-tool</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zansotlar.vercel.app/en/work/ai-banner-generation-tool"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://zansotlar.vercel.app/sl/work/ai-banner-generation-tool"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zansotlar.vercel.app/en/work/ai-banner-generation-tool"/>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://zansotlar.vercel.app/sl/work/ai-banner-generation-tool</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zansotlar.vercel.app/en/work/ai-banner-generation-tool"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://zansotlar.vercel.app/sl/work/ai-banner-generation-tool"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zansotlar.vercel.app/en/work/ai-banner-generation-tool"/>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://zansotlar.vercel.app/en/work/modern-daily-designs</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zansotlar.vercel.app/en/work/modern-daily-designs"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://zansotlar.vercel.app/sl/work/modern-daily-designs"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zansotlar.vercel.app/en/work/modern-daily-designs"/>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://zansotlar.vercel.app/sl/work/modern-daily-designs</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zansotlar.vercel.app/en/work/modern-daily-designs"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://zansotlar.vercel.app/sl/work/modern-daily-designs"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zansotlar.vercel.app/en/work/modern-daily-designs"/>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://zansotlar.vercel.app/en/work/marketing-automation</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zansotlar.vercel.app/en/work/marketing-automation"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://zansotlar.vercel.app/sl/work/marketing-automation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zansotlar.vercel.app/en/work/marketing-automation"/>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://zansotlar.vercel.app/sl/work/marketing-automation</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zansotlar.vercel.app/en/work/marketing-automation"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://zansotlar.vercel.app/sl/work/marketing-automation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zansotlar.vercel.app/en/work/marketing-automation"/>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://zansotlar.vercel.app/en/work/digital-media-production</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zansotlar.vercel.app/en/work/digital-media-production"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://zansotlar.vercel.app/sl/work/digital-media-production"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zansotlar.vercel.app/en/work/digital-media-production"/>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://zansotlar.vercel.app/sl/work/digital-media-production</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zansotlar.vercel.app/en/work/digital-media-production"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://zansotlar.vercel.app/sl/work/digital-media-production"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zansotlar.vercel.app/en/work/digital-media-production"/>
+    <priority>0.7</priority>
+  </url>
+</urlset>

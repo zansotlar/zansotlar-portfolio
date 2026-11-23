@@ -1,0 +1,1 @@
+import{j as e}from"./index-CCTaYO_f.js";function r(){return e.jsxs("main",{className:"zs-redirect",children:[e.jsx("a",{href:"/en",children:"English"})," · ",e.jsx("a",{href:"/sl",children:"Slovenščina"})]})}export{r as component};
